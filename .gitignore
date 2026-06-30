@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.pytest_cache/
+data/processed/*.db
+data/processed/bls_api_monthly.csv
+outputs/figures/
+outputs/bea_growth_validation.json
+scripts/deploy-vellum.sh
+scripts/deploy-*.local.sh
+*.zip
+~$*
+.ipynb_checkpoints/
+*.egg-info/
+.DS_Store

@@ -1,0 +1,62 @@
+{
+  "n_industries": 85,
+  "silhouette_score": 0.651807152365321,
+  "classification_report": {
+    "balanced": {
+      "precision": 0.95,
+      "recall": 0.95,
+      "f1-score": 0.95,
+      "support": 20.0
+    },
+    "quantity_led": {
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1-score": 0.5,
+      "support": 2.0
+    },
+    "accuracy": 0.9090909090909091,
+    "macro avg": {
+      "precision": 0.725,
+      "recall": 0.725,
+      "f1-score": 0.725,
+      "support": 22.0
+    },
+    "weighted avg": {
+      "precision": 0.9090909090909091,
+      "recall": 0.9090909090909091,
+      "f1-score": 0.9090909090909091,
+      "support": 22.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      19,
+      1
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "confusion_labels": [
+    "balanced",
+    "quantity_led"
+  ],
+  "feature_importances": {
+    "avg_price_growth": 0.2816997935912515,
+    "avg_quantity_growth": 0.5117510766969499,
+    "vol_price_growth": 0.02719835784387332,
+    "vol_quantity_growth": 0.12968292162515,
+    "avg_qp_ratio": 0.049667850242775265
+  },
+  "cluster_counts": {
+    "0": 78,
+    "2": 5,
+    "1": 1,
+    "3": 1
+  },
+  "regime_counts": {
+    "balanced": 77,
+    "quantity_led": 8
+  }
+}

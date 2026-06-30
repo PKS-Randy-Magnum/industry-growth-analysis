@@ -1,0 +1,30 @@
+{
+  "existence": {
+    "total_series": 98,
+    "found": 98,
+    "missing": [],
+    "missing_count": 0
+  },
+  "comparison": {
+    "overlapping_line_periods": 504,
+    "metrics": [
+      {
+        "metric": "employment_thousands_growth",
+        "pairs": 441,
+        "within_tolerance": 426,
+        "pct_within_tolerance": 0.9659863945578231,
+        "mean_abs_diff": 0.02681520476278532,
+        "max_abs_diff": 3.180596518010298
+      },
+      {
+        "metric": "avg_hourly_earnings_growth",
+        "pairs": 390,
+        "within_tolerance": 382,
+        "pct_within_tolerance": 0.9794871794871794,
+        "mean_abs_diff": 0.007902072590901104,
+        "max_abs_diff": 0.9853159345696709
+      }
+    ]
+  },
+  "pass": true
+}

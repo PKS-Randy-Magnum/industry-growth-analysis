@@ -1,0 +1,76 @@
+﻿line_id,period_start,period_end,employment_thousands_growth,avg_hourly_earnings_growth,industry_name,indent_level,is_private
+6,2019-Q1,2026-Q1,-0.186276,0.236600,Mining,4,True
+7,2019-Q1,2026-Q1,-0.188609,0.085235,Oil and gas extraction,8,True
+8,2019-Q1,2026-Q1,-0.031697,0.274716,"Mining, except oil and gas",8,True
+9,2019-Q1,2026-Q1,-0.268812,0.298440,Support activities for mining,8,True
+10,2019-Q1,2026-Q1,0.099891,0.312595,Utilities,4,True
+11,2019-Q1,2026-Q1,0.120432,0.337897,Construction,4,True
+13,2019-Q1,2026-Q1,-0.026095,0.338883,Durable goods,8,True
+14,2019-Q1,2026-Q1,-0.033934,0.371474,Wood products,12,True
+15,2019-Q1,2026-Q1,-0.003173,0.321457,Nonmetallic mineral products,12,True
+16,2019-Q1,2026-Q1,-0.064497,0.315470,Primary metals,12,True
+17,2019-Q1,2026-Q1,-0.034421,0.347658,Fabricated metal products,12,True
+18,2019-Q1,2026-Q1,-0.103099,0.214465,Machinery,12,True
+19,2019-Q1,2026-Q1,-0.043231,0.335525,Computer and electronic products,12,True
+20,2019-Q1,2026-Q1,0.071693,0.453732,"Electrical equipment, appliances, and components",12,True
+21,2019-Q1,2026-Q1,-0.053763,0.371031,"Motor vehicles, bodies and trailers, and parts",12,True
+22,2019-Q1,2026-Q1,0.083203,0.280712,Other transportation equipment,12,True
+23,2019-Q1,2026-Q1,-0.142589,0.313168,Furniture and related products,12,True
+24,2019-Q1,2026-Q1,-0.009914,0.345743,Miscellaneous manufacturing,12,True
+25,2019-Q1,2026-Q1,0.002169,0.310936,Nondurable goods,8,True
+26,2019-Q1,2026-Q1,0.096882,0.354885,Food and beverage and tobacco products,12,True
+27,2019-Q1,2026-Q1,-0.224025,0.365659,Textile mills and textile product mills,12,True
+28,2019-Q1,2026-Q1,-0.337202,0.055808,Apparel and leather and allied products,12,True
+29,2019-Q1,2026-Q1,-0.026004,0.283302,Paper products,12,True
+30,2019-Q1,2026-Q1,-0.202806,0.337943,Printing and related support activities,12,True
+31,2019-Q1,2026-Q1,-0.054288,,Petroleum and coal products,12,True
+32,2019-Q1,2026-Q1,0.060065,0.273978,Chemical products,12,True
+33,2019-Q1,2026-Q1,-0.051874,0.343941,Plastics and rubber products,12,True
+34,2019-Q1,2026-Q1,0.028738,0.277503,Wholesale trade,4,True
+35,2019-Q1,2026-Q1,-0.010488,0.348417,Retail trade,4,True
+36,2019-Q1,2026-Q1,0.012482,0.345871,Motor vehicle and parts dealers,8,True
+37,2019-Q1,2026-Q1,0.038964,0.437567,Food and beverage stores,8,True
+38,2019-Q1,2026-Q1,0.041740,0.323165,General merchandise stores,8,True
+39,2019-Q1,2026-Q1,-0.053711,0.355202,Other retail,8,True
+40,2019-Q1,2026-Q1,0.174622,0.316805,Transportation and warehousing,4,True
+41,2019-Q1,2026-Q1,0.146447,0.407234,Air transportation,8,True
+42,2019-Q1,2026-Q1,-0.170920,,Rail transportation,8,True
+43,2019-Q1,2026-Q1,0.089666,,Water transportation,8,True
+44,2019-Q1,2026-Q1,-0.041920,0.333691,Truck transportation,8,True
+45,2019-Q1,2026-Q1,-0.009728,0.470991,Transit and ground passenger transportation,8,True
+46,2019-Q1,2026-Q1,0.102041,,Pipeline transportation,8,True
+47,2019-Q1,2026-Q1,0.093378,0.379077,Other transportation and support activities,8,True
+48,2019-Q1,2026-Q1,0.556683,0.303224,Warehousing and storage,8,True
+49,2019-Q1,2026-Q1,-0.015702,0.298438,Information,4,True
+50,2019-Q1,2026-Q1,0.115107,0.269128,"Publishing industries, except internet (includes software)",8,True
+51,2019-Q1,2026-Q1,-0.220309,0.163773,Motion picture and sound recording industries,8,True
+52,2019-Q1,2026-Q1,-0.203555,0.283389,Broadcasting and telecommunications,8,True
+53,2019-Q1,2026-Q1,0.299670,0.291578,"Data processing, internet publishing, and other information services",8,True
+55,2019-Q1,2026-Q1,0.048979,,Finance and insurance,8,True
+56,2019-Q1,2026-Q1,-0.036982,0.442297,"Federal Reserve banks, credit intermediation, and related activities",12,True
+57,2019-Q1,2026-Q1,0.075220,0.399023,"Securities, commodity contracts, and investments",12,True
+58,2019-Q1,2026-Q1,0.074470,0.347589,Insurance carriers and related activities,12,True
+60,2019-Q1,2026-Q1,0.062010,,Real estate and rental and leasing,8,True
+61,2019-Q1,2026-Q1,0.090923,0.286974,Real estate,12,True
+64,2019-Q1,2026-Q1,-0.019567,0.286566,Rental and leasing services and lessors of intangible assets,12,True
+66,2019-Q1,2026-Q1,0.145075,0.318477,"Professional, scientific, and technical services",8,True
+67,2019-Q1,2026-Q1,0.077991,0.429302,Legal services,12,True
+68,2019-Q1,2026-Q1,0.099349,0.305205,Computer systems design and related services,12,True
+69,2019-Q1,2026-Q1,0.173716,0.308141,"Miscellaneous professional, scientific, and technical services",12,True
+70,2019-Q1,2026-Q1,0.044944,0.273467,Management of companies and enterprises,8,True
+71,2019-Q1,2026-Q1,-0.031222,0.410667,Administrative and waste management services,8,True
+72,2019-Q1,2026-Q1,-0.041507,0.420556,Administrative and support services,12,True
+73,2019-Q1,2026-Q1,0.172321,0.277263,Waste management and remediation services,12,True
+75,2019-Q1,2026-Q1,0.083773,,Educational services,8,True
+76,2019-Q1,2026-Q1,0.172963,0.313636,Health care and social assistance,8,True
+77,2019-Q1,2026-Q1,0.203355,0.247422,Ambulatory health care services,12,True
+78,2019-Q1,2026-Q1,0.111804,0.354070,Hospitals,12,True
+79,2019-Q1,2026-Q1,0.030346,0.434798,Nursing and residential care facilities,12,True
+80,2019-Q1,2026-Q1,0.311776,0.406420,Social assistance,12,True
+82,2019-Q1,2026-Q1,0.106039,0.334622,"Arts, entertainment, and recreation",8,True
+83,2019-Q1,2026-Q1,0.140342,0.264600,"Performing arts, spectator sports, museums, and related activities",12,True
+84,2019-Q1,2026-Q1,0.092466,0.390945,"Amusements, gambling, and recreation industries",12,True
+85,2019-Q1,2026-Q1,0.014753,0.440941,Accommodation and food services,8,True
+86,2019-Q1,2026-Q1,-0.068233,0.410007,Accommodation,12,True
+87,2019-Q1,2026-Q1,0.029073,0.456391,Food services and drinking places,12,True
+88,2019-Q1,2026-Q1,0.027922,0.349001,"Other services, except government",4,False

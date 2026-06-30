@@ -1,0 +1,80 @@
+{
+  "profile": "full",
+  "period": "2019-Q1 to 2026-Q2",
+  "n_industries": 80,
+  "n_clusters": 4,
+  "silhouette_score": 0.6424077858323824,
+  "classification_report": {
+    "balanced": {
+      "precision": 1.0,
+      "recall": 0.9230769230769231,
+      "f1-score": 0.96,
+      "support": 13.0
+    },
+    "price_led": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 3.0
+    },
+    "quantity_led": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1-score": 0.8888888888888888,
+      "support": 4.0
+    },
+    "accuracy": 0.95,
+    "macro avg": {
+      "precision": 0.9333333333333332,
+      "recall": 0.9743589743589745,
+      "f1-score": 0.9496296296296296,
+      "support": 20.0
+    },
+    "weighted avg": {
+      "precision": 0.96,
+      "recall": 0.95,
+      "f1-score": 0.9517777777777777,
+      "support": 20.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      12,
+      0,
+      1
+    ],
+    [
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      4
+    ]
+  ],
+  "confusion_labels": [
+    "balanced",
+    "price_led",
+    "quantity_led"
+  ],
+  "feature_importances": {
+    "avg_price_growth": 0.33367361234152826,
+    "avg_quantity_growth": 0.4656383091549729,
+    "vol_price_growth": 0.060061302582066205,
+    "vol_quantity_growth": 0.07928639939844631,
+    "avg_qp_ratio": 0.061340376522986274
+  },
+  "cluster_counts": {
+    "0": 73,
+    "2": 5,
+    "1": 1,
+    "3": 1
+  },
+  "regime_counts": {
+    "balanced": 52,
+    "quantity_led": 16,
+    "price_led": 12
+  }
+}

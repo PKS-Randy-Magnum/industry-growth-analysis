@@ -1,0 +1,80 @@
+﻿line_id,industry_name,avg_price_growth,avg_quantity_growth,vol_price_growth,vol_quantity_growth,avg_qp_ratio,qp_sign_case,growth_regime,cluster_id,cluster_label
+3,"Agriculture, forestry, fishing, and hunting",0.010118,0.006916,0.078267,0.041257,-0.099111,both_positive,balanced,0,high_volatility
+4,Farms,0.013263,0.008218,0.098277,0.045512,0.548857,both_positive,balanced,0,high_volatility
+5,"Forestry, fishing, and related activities",0.004772,0.002380,0.008356,0.034480,-8.044165,both_positive,balanced,0,high_volatility
+6,Mining,0.019550,0.008692,0.161655,0.053347,-0.410489,both_positive,balanced,0,high_volatility
+7,Oil and gas extraction,0.044651,0.016571,0.294211,0.084072,-0.397820,both_positive,balanced,2,high_volatility
+8,"Mining, except oil and gas",0.022105,0.001450,0.033917,0.026152,-0.839841,both_positive,balanced,0,high_volatility
+9,Support activities for mining,-0.004301,0.003924,0.049527,0.083891,-1.089618,pos_num_neg_den,balanced,0,high_volatility
+10,Utilities,0.009889,0.006834,0.054754,0.035793,-24.937594,both_positive,balanced,0,high_volatility
+11,Construction,0.012852,0.000681,0.019678,0.021059,0.039784,both_positive,balanced,0,high_volatility
+13,Durable goods,0.006038,0.003542,0.010818,0.039248,-7.146620,both_positive,balanced,0,high_volatility
+14,Wood products,0.014282,0.005350,0.066226,0.057430,1.148339,both_positive,balanced,0,high_volatility
+15,Nonmetallic mineral products,0.015561,-0.006159,0.020942,0.027927,-0.408247,neg_num_pos_den,price_led,0,high_volatility
+16,Primary metals,-0.003995,0.020183,0.108295,0.084885,-0.522229,pos_num_neg_den,quantity_led,3,high_volatility
+17,Fabricated metal products,0.014565,-0.004822,0.029405,0.041713,-2.799804,neg_num_pos_den,price_led,0,high_volatility
+18,Machinery,0.012264,-0.001281,0.024979,0.037527,0.016228,neg_num_pos_den,price_led,0,high_volatility
+19,Computer and electronic products,0.005471,0.003281,0.010720,0.020470,-8.156348,both_positive,balanced,0,high_volatility
+20,"Electrical equipment, appliances, and components",0.011341,0.000923,0.029928,0.031005,0.376356,both_positive,balanced,0,high_volatility
+21,"Motor vehicles, bodies and trailers, and parts",-0.006672,0.028311,0.039594,0.207713,-4.070557,pos_num_neg_den,quantity_led,3,high_volatility
+22,Other transportation equipment,0.003141,0.008429,0.009200,0.055388,-5.032033,both_positive,quantity_led,0,high_volatility
+23,Furniture and related products,0.013062,-0.007068,0.025964,0.036635,-1.707964,neg_num_pos_den,price_led,0,high_volatility
+24,Miscellaneous manufacturing,0.006408,0.003887,0.011376,0.031433,-19.069791,both_positive,balanced,0,high_volatility
+25,Nondurable goods,0.007027,0.004979,0.027102,0.029036,-1.115345,both_positive,balanced,0,high_volatility
+26,Food and beverage and tobacco products,0.010112,0.002830,0.044102,0.045451,-0.508058,both_positive,balanced,0,high_volatility
+27,Textile mills and textile product mills,0.005586,-0.003825,0.012734,0.048934,-4.384019,neg_num_pos_den,price_led,0,high_volatility
+28,Apparel and leather and allied products,0.003077,0.007923,0.010382,0.049150,-0.165968,both_positive,quantity_led,0,high_volatility
+29,Paper products,0.009420,-0.001262,0.027312,0.032477,-0.222563,neg_num_pos_den,price_led,0,high_volatility
+30,Printing and related support activities,0.013951,-0.012381,0.020305,0.040526,-12.434519,neg_num_pos_den,price_led,0,high_volatility
+31,Petroleum and coal products,0.043990,0.004484,0.264626,0.119732,-0.806878,both_positive,balanced,2,high_volatility
+32,Chemical products,0.004527,0.011693,0.017453,0.030671,-4.609150,both_positive,quantity_led,0,high_volatility
+33,Plastics and rubber products,0.012151,-0.002471,0.034522,0.042529,-1.237719,neg_num_pos_den,price_led,0,high_volatility
+34,Wholesale trade,0.016779,0.000238,0.018219,0.030902,2.215922,both_positive,balanced,0,high_volatility
+35,Retail trade,0.010814,0.006210,0.025395,0.034101,0.386588,both_positive,balanced,0,high_volatility
+36,Motor vehicle and parts dealers,0.008442,0.012934,0.096817,0.078885,1.103683,both_positive,balanced,3,high_volatility
+37,Food and beverage stores,0.015331,-0.000676,0.023408,0.026143,-0.135786,neg_num_pos_den,price_led,0,high_volatility
+38,General merchandise stores,0.018147,-0.001512,0.040169,0.049489,-25.841498,neg_num_pos_den,price_led,0,high_volatility
+39,Other retail,0.010518,0.008227,0.018520,0.042328,-1.851970,both_positive,balanced,0,high_volatility
+40,Transportation and warehousing,0.009842,0.005763,0.019818,0.045774,-1.407355,both_positive,balanced,0,high_volatility
+41,Air transportation,0.005102,0.034236,0.061272,0.190794,0.614119,both_positive,balanced,3,high_volatility
+42,Rail transportation,0.007256,-0.003831,0.018143,0.035645,-1.929374,neg_num_pos_den,price_led,0,high_volatility
+43,Water transportation,0.009870,0.012856,0.089044,0.105626,-1.536155,both_positive,balanced,3,high_volatility
+44,Truck transportation,0.010472,0.002373,0.036781,0.038948,-0.675827,both_positive,balanced,0,high_volatility
+45,Transit and ground passenger transportation,-0.002580,0.025342,0.021067,0.086157,1.992451,pos_num_neg_den,quantity_led,3,high_volatility
+46,Pipeline transportation,0.010567,-0.000037,0.018365,0.043821,0.211570,neg_num_pos_den,price_led,0,high_volatility
+47,Other transportation and support activities,0.013486,0.005266,0.037624,0.042025,-0.711958,both_positive,balanced,0,high_volatility
+48,Warehousing and storage,0.017494,0.006395,0.033396,0.042951,-0.996780,both_positive,balanced,0,high_volatility
+49,Information,-0.002173,0.019417,0.007165,0.016607,1.103866,pos_num_neg_den,quantity_led,0,high_volatility
+50,"Publishing industries, except internet (includes software)",-0.001067,0.023258,0.014540,0.021672,-29.406057,pos_num_neg_den,quantity_led,1,high_volatility
+51,Motion picture and sound recording industries,0.001733,0.012780,0.022151,0.075530,-2.232593,both_positive,quantity_led,0,high_volatility
+52,Broadcasting and telecommunications,-0.002202,0.004157,0.012261,0.017288,-0.110348,pos_num_neg_den,balanced,0,high_volatility
+53,"Data processing, internet publishing, and other information services",-0.003936,0.037940,0.007114,0.024981,-38.469478,pos_num_neg_den,quantity_led,1,high_volatility
+54,"Finance, insurance, real estate, rental, and leasing",0.009593,0.006488,0.005585,0.008961,1.427632,both_positive,balanced,0,high_volatility
+55,Finance and insurance,0.011970,0.004433,0.009322,0.017683,0.605001,both_positive,balanced,0,high_volatility
+56,"Federal Reserve banks, credit intermediation, and related activities",0.012285,0.003926,0.018884,0.025128,-0.734028,both_positive,balanced,0,high_volatility
+57,"Securities, commodity contracts, and investments",0.016623,0.007656,0.051969,0.056072,-0.683327,both_positive,balanced,0,high_volatility
+58,Insurance carriers and related activities,0.009185,0.003497,0.012167,0.023525,9.558452,both_positive,balanced,0,high_volatility
+60,Real estate and rental and leasing,0.008258,0.007723,0.005051,0.009611,1.394654,both_positive,balanced,0,high_volatility
+65,Professional and business services,0.004513,0.010915,0.005140,0.021454,-0.020783,both_positive,quantity_led,0,high_volatility
+66,"Professional, scientific, and technical services",0.003217,0.013155,0.005199,0.019831,6.237978,both_positive,quantity_led,0,high_volatility
+67,Legal services,0.015544,0.000533,0.008006,0.024103,-0.202842,both_positive,balanced,0,high_volatility
+68,Computer systems design and related services,-0.007640,0.022057,0.013319,0.016552,-3.895824,pos_num_neg_den,quantity_led,0,high_volatility
+69,"Miscellaneous professional, scientific, and technical services",0.003903,0.013557,0.006700,0.026179,4.062599,both_positive,quantity_led,0,high_volatility
+70,Management of companies and enterprises,0.003062,0.010256,0.012287,0.018605,4.061185,both_positive,quantity_led,0,high_volatility
+71,Administrative and waste management services,0.008746,0.005923,0.005729,0.035590,-0.034139,both_positive,balanced,0,high_volatility
+72,Administrative and support services,0.007964,0.006495,0.005680,0.036520,-0.388609,both_positive,balanced,0,high_volatility
+73,Waste management and remediation services,0.016593,0.000582,0.018457,0.031918,-0.588590,both_positive,balanced,0,high_volatility
+74,"Educational services, health care, and social assistance",0.006907,0.008456,0.003977,0.038040,1.470155,both_positive,balanced,0,high_volatility
+75,Educational services,0.007019,0.003225,0.003241,0.027553,-2.178046,both_positive,balanced,0,high_volatility
+76,Health care and social assistance,0.006889,0.009317,0.004240,0.040756,2.801980,both_positive,balanced,0,high_volatility
+77,Ambulatory health care services,0.004778,0.012521,0.004867,0.062986,1.816825,both_positive,quantity_led,0,high_volatility
+78,Hospitals,0.008186,0.006074,0.006123,0.023851,-0.844793,both_positive,balanced,0,high_volatility
+79,Nursing and residential care facilities,0.009585,0.005047,0.007183,0.015519,2.745404,both_positive,balanced,0,high_volatility
+80,Social assistance,0.010660,0.011417,0.008006,0.047138,1.914732,both_positive,balanced,0,high_volatility
+81,"Arts, entertainment, recreation, accommodation, and food services",0.012744,0.010724,0.010802,0.125837,14.872989,both_positive,balanced,3,high_volatility
+82,"Arts, entertainment, and recreation",0.010146,0.018451,0.013734,0.136433,-1.608177,both_positive,balanced,3,high_volatility
+83,"Performing arts, spectator sports, museums, and related activities",0.008482,0.020016,0.018028,0.128088,-5.851891,both_positive,balanced,3,high_volatility
+84,"Amusements, gambling, and recreation industries",0.012487,0.018593,0.011720,0.170320,15.139376,both_positive,balanced,3,high_volatility
+85,Accommodation and food services,0.013601,0.008487,0.012427,0.124182,-86.355844,both_positive,balanced,1,high_volatility
+86,Accommodation,0.009772,0.019981,0.035704,0.181927,-1.065762,both_positive,balanced,3,high_volatility
+87,Food services and drinking places,0.015230,0.005451,0.011519,0.108697,-0.936512,both_positive,balanced,0,high_volatility

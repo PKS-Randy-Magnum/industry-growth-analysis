@@ -1,0 +1,87 @@
+line_id,industry_name,indent_level,is_private,plot_level
+1,Gross domestic product,8,True,exclude
+2,Private industries,0,True,aggregate
+3,"Agriculture, forestry, fishing, and hunting",4,True,sector
+4,Farms,8,True,subsector
+5,"Forestry, fishing, and related activities",8,True,subsector
+6,Mining,4,True,sector
+7,Oil and gas extraction,8,True,subsector
+8,"Mining, except oil and gas",8,True,subsector
+9,Support activities for mining,8,True,subsector
+10,Utilities,4,True,sector
+11,Construction,4,True,sector
+12,Manufacturing,4,True,aggregate
+13,Durable goods,8,True,subsector
+14,Wood products,12,True,subsector
+15,Nonmetallic mineral products,12,True,subsector
+16,Primary metals,12,True,subsector
+17,Fabricated metal products,12,True,subsector
+18,Machinery,12,True,subsector
+19,Computer and electronic products,12,True,subsector
+20,"Electrical equipment, appliances, and components",12,True,subsector
+21,"Motor vehicles, bodies and trailers, and parts",12,True,subsector
+22,Other transportation equipment,12,True,subsector
+23,Furniture and related products,12,True,subsector
+24,Miscellaneous manufacturing,12,True,subsector
+25,Nondurable goods,8,True,subsector
+26,Food and beverage and tobacco products,12,True,subsector
+27,Textile mills and textile product mills,12,True,subsector
+28,Apparel and leather and allied products,12,True,subsector
+29,Paper products,12,True,subsector
+30,Printing and related support activities,12,True,subsector
+31,Petroleum and coal products,12,True,subsector
+32,Chemical products,12,True,subsector
+33,Plastics and rubber products,12,True,subsector
+34,Wholesale trade,4,True,sector
+35,Retail trade,4,True,sector
+36,Motor vehicle and parts dealers,8,True,subsector
+37,Food and beverage stores,8,True,subsector
+38,General merchandise stores,8,True,subsector
+39,Other retail,8,True,subsector
+40,Transportation and warehousing,4,True,sector
+41,Air transportation,8,True,subsector
+42,Rail transportation,8,True,subsector
+43,Water transportation,8,True,subsector
+44,Truck transportation,8,True,subsector
+45,Transit and ground passenger transportation,8,True,subsector
+46,Pipeline transportation,8,True,subsector
+47,Other transportation and support activities,8,True,subsector
+48,Warehousing and storage,8,True,subsector
+49,Information,4,True,sector
+50,"Publishing industries, except internet (includes software)",8,True,subsector
+51,Motion picture and sound recording industries,8,True,subsector
+52,Broadcasting and telecommunications,8,True,subsector
+53,"Data processing, internet publishing, and other information services",8,True,subsector
+54,"Finance, insurance, real estate, rental, and leasing",4,True,sector
+55,Finance and insurance,8,True,subsector
+56,"Federal Reserve banks, credit intermediation, and related activities",12,True,subsector
+57,"Securities, commodity contracts, and investments",12,True,subsector
+58,Insurance carriers and related activities,12,True,subsector
+59,"Funds, trusts, and other financial vehicles",12,True,subsector
+60,Real estate and rental and leasing,8,True,subsector
+61,Real estate,12,True,subsector
+64,Rental and leasing services and lessors of intangible assets,12,True,subsector
+65,Professional and business services,4,True,sector
+66,"Professional, scientific, and technical services",8,True,subsector
+67,Legal services,12,True,subsector
+68,Computer systems design and related services,12,True,subsector
+69,"Miscellaneous professional, scientific, and technical services",12,True,subsector
+70,Management of companies and enterprises,8,True,subsector
+71,Administrative and waste management services,8,True,subsector
+72,Administrative and support services,12,True,subsector
+73,Waste management and remediation services,12,True,subsector
+74,"Educational services, health care, and social assistance",4,True,sector
+75,Educational services,8,True,subsector
+76,Health care and social assistance,8,True,subsector
+77,Ambulatory health care services,12,True,subsector
+78,Hospitals,12,True,subsector
+79,Nursing and residential care facilities,12,True,subsector
+80,Social assistance,12,True,subsector
+81,"Arts, entertainment, recreation, accommodation, and food services",4,True,sector
+82,"Arts, entertainment, and recreation",8,True,subsector
+83,"Performing arts, spectator sports, museums, and related activities",12,True,subsector
+84,"Amusements, gambling, and recreation industries",12,True,subsector
+85,Accommodation and food services,8,True,subsector
+86,Accommodation,12,True,subsector
+87,Food services and drinking places,12,True,subsector
+88,"Other services, except government",4,False,exclude

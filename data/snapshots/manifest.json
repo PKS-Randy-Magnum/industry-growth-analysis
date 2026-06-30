@@ -1,0 +1,84 @@
+{
+  "exported_at": "2026-06-26T16:46:49.266984+00:00",
+  "period_start": "2019-Q1",
+  "period_end": "2026-Q1",
+  "bea_source": "api",
+  "bls_source": "api",
+  "growth_formula": "QoQ from BEA tables 8+11 indexes: (I_t - I_{t-1}) / I_{t-1}",
+  "profiles": [
+    {
+      "name": "full",
+      "excludes_line_ids": [],
+      "files": [
+        "data\\snapshots\\full\\bea_observations.csv",
+        "data\\snapshots\\full\\bea_growth_quarterly.csv",
+        "data\\excel\\full\\bea_growth_quarterly.csv",
+        "data\\snapshots\\full\\bea_growth_panel.csv",
+        "data\\excel\\full\\bea_growth_panel.csv",
+        "data\\snapshots\\full\\bea_growth_endpoint.csv",
+        "data\\excel\\full\\bea_growth_endpoint.csv",
+        "data\\snapshots\\full\\bea_growth_yearly_q1.csv",
+        "data\\excel\\full\\bea_growth_yearly_q1.csv",
+        "data\\snapshots\\full\\bls_quarterly_growth.csv",
+        "data\\excel\\full\\bls_quarterly_growth.csv",
+        "data\\snapshots\\full\\bls_growth_endpoint.csv",
+        "data\\excel\\full\\bls_growth_endpoint.csv",
+        "data\\snapshots\\full\\bls_growth_yearly_q1.csv",
+        "data\\excel\\full\\bls_growth_yearly_q1.csv",
+        "data\\excel\\full\\bea_pivot_quantity_growth.csv",
+        "data\\excel\\full\\bea_pivot_price_growth.csv",
+        "data\\excel\\full\\bea_pivot_qp_ratio.csv",
+        "data\\excel\\full\\bls_pivot_wage_growth.csv",
+        "data\\excel\\full\\bls_pivot_employment_growth.csv"
+      ],
+      "row_counts": {
+        "bea_observations.csv": 12383,
+        "bea_growth_quarterly.csv": 2494,
+        "bea_growth_panel.csv": 2494,
+        "bea_growth_endpoint.csv": 86,
+        "bea_growth_yearly_q1.csv": 602,
+        "bls_quarterly_growth.csv": 2280,
+        "bls_growth_endpoint.csv": 76,
+        "bls_growth_yearly_q1.csv": 532
+      }
+    },
+    {
+      "name": "excl_trust_funds",
+      "excludes_line_ids": [
+        59
+      ],
+      "files": [
+        "data\\snapshots\\excl_trust_funds\\bea_observations.csv",
+        "data\\snapshots\\excl_trust_funds\\bea_growth_quarterly.csv",
+        "data\\excel\\excl_trust_funds\\bea_growth_quarterly.csv",
+        "data\\snapshots\\excl_trust_funds\\bea_growth_panel.csv",
+        "data\\excel\\excl_trust_funds\\bea_growth_panel.csv",
+        "data\\snapshots\\excl_trust_funds\\bea_growth_endpoint.csv",
+        "data\\excel\\excl_trust_funds\\bea_growth_endpoint.csv",
+        "data\\snapshots\\excl_trust_funds\\bea_growth_yearly_q1.csv",
+        "data\\excel\\excl_trust_funds\\bea_growth_yearly_q1.csv",
+        "data\\snapshots\\excl_trust_funds\\bls_quarterly_growth.csv",
+        "data\\excel\\excl_trust_funds\\bls_quarterly_growth.csv",
+        "data\\snapshots\\excl_trust_funds\\bls_growth_endpoint.csv",
+        "data\\excel\\excl_trust_funds\\bls_growth_endpoint.csv",
+        "data\\snapshots\\excl_trust_funds\\bls_growth_yearly_q1.csv",
+        "data\\excel\\excl_trust_funds\\bls_growth_yearly_q1.csv",
+        "data\\excel\\excl_trust_funds\\bea_pivot_quantity_growth.csv",
+        "data\\excel\\excl_trust_funds\\bea_pivot_price_growth.csv",
+        "data\\excel\\excl_trust_funds\\bea_pivot_qp_ratio.csv",
+        "data\\excel\\excl_trust_funds\\bls_pivot_wage_growth.csv",
+        "data\\excel\\excl_trust_funds\\bls_pivot_employment_growth.csv"
+      ],
+      "row_counts": {
+        "bea_observations.csv": 12239,
+        "bea_growth_quarterly.csv": 2465,
+        "bea_growth_panel.csv": 2465,
+        "bea_growth_endpoint.csv": 85,
+        "bea_growth_yearly_q1.csv": 595,
+        "bls_quarterly_growth.csv": 2250,
+        "bls_growth_endpoint.csv": 75,
+        "bls_growth_yearly_q1.csv": 525
+      }
+    }
+  ]
+}

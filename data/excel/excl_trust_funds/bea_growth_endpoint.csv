@@ -1,0 +1,86 @@
+﻿line_id,period_start,period_end,quantity_growth,price_growth,qp_ratio,qp_sign_case,industry_name,indent_level,is_private
+1,2019-Q1,2026-Q1,0.183473,0.275471,0.666032,both_positive,Gross domestic product,8,True
+2,2019-Q1,2026-Q1,0.202392,0.273229,0.740742,both_positive,Private industries,0,True
+3,2019-Q1,2026-Q1,0.192969,0.231648,0.833025,both_positive,"Agriculture, forestry, fishing, and hunting",4,True
+4,2019-Q1,2026-Q1,0.232634,0.285085,0.816017,both_positive,Farms,8,True
+5,2019-Q1,2026-Q1,0.053853,0.146940,0.366493,both_positive,"Forestry, fishing, and related activities",8,True
+6,2019-Q1,2026-Q1,0.237091,0.217163,1.091766,both_positive,Mining,4,True
+7,2019-Q1,2026-Q1,0.467536,0.136972,3.413357,both_positive,Oil and gas extraction,8,True
+8,2019-Q1,2026-Q1,0.032943,0.856622,0.038456,both_positive,"Mining, except oil and gas",8,True
+9,2019-Q1,2026-Q1,0.014149,-0.147132,-0.096167,pos_num_neg_den,Support activities for mining,8,True
+10,2019-Q1,2026-Q1,0.197050,0.277843,0.709213,both_positive,Utilities,4,True
+11,2019-Q1,2026-Q1,0.013600,0.440760,0.030855,both_positive,Construction,4,True
+12,2019-Q1,2026-Q1,0.109572,0.199832,0.548323,both_positive,Manufacturing,4,True
+13,2019-Q1,2026-Q1,0.084482,0.188834,0.447390,both_positive,Durable goods,8,True
+14,2019-Q1,2026-Q1,0.115015,0.425022,0.270609,both_positive,Wood products,12,True
+15,2019-Q1,2026-Q1,-0.173162,0.555721,-0.311598,neg_num_pos_den,Nonmetallic mineral products,12,True
+16,2019-Q1,2026-Q1,0.614988,-0.237188,-2.592835,pos_num_neg_den,Primary metals,12,True
+17,2019-Q1,2026-Q1,-0.152638,0.503410,-0.303208,neg_num_pos_den,Fabricated metal products,12,True
+18,2019-Q1,2026-Q1,-0.055566,0.411990,-0.134872,neg_num_pos_den,Machinery,12,True
+19,2019-Q1,2026-Q1,0.093267,0.169606,0.549901,both_positive,Computer and electronic products,12,True
+20,2019-Q1,2026-Q1,0.013132,0.370207,0.035471,both_positive,"Electrical equipment, appliances, and components",12,True
+21,2019-Q1,2026-Q1,0.432930,-0.194676,-2.223846,pos_num_neg_den,"Motor vehicles, bodies and trailers, and parts",12,True
+22,2019-Q1,2026-Q1,0.221428,0.093909,2.357899,both_positive,Other transportation equipment,12,True
+23,2019-Q1,2026-Q1,-0.201310,0.443878,-0.453525,neg_num_pos_den,Furniture and related products,12,True
+24,2019-Q1,2026-Q1,0.104094,0.201347,0.516988,both_positive,Miscellaneous manufacturing,12,True
+25,2019-Q1,2026-Q1,0.141541,0.212893,0.664846,both_positive,Nondurable goods,8,True
+26,2019-Q1,2026-Q1,0.055485,0.303921,0.182563,both_positive,Food and beverage and tobacco products,12,True
+27,2019-Q1,2026-Q1,-0.135116,0.172719,-0.782290,neg_num_pos_den,Textile mills and textile product mills,12,True
+28,2019-Q1,2026-Q1,0.215086,0.091561,2.349106,both_positive,Apparel and leather and allied products,12,True
+29,2019-Q1,2026-Q1,-0.050202,0.299205,-0.167786,neg_num_pos_den,Paper products,12,True
+30,2019-Q1,2026-Q1,-0.320315,0.486294,-0.658686,neg_num_pos_den,Printing and related support activities,12,True
+31,2019-Q1,2026-Q1,-0.059271,0.247896,-0.239096,neg_num_pos_den,Petroleum and coal products,12,True
+32,2019-Q1,2026-Q1,0.382962,0.135192,2.832719,both_positive,Chemical products,12,True
+33,2019-Q1,2026-Q1,-0.092826,0.397017,-0.233809,neg_num_pos_den,Plastics and rubber products,12,True
+34,2019-Q1,2026-Q1,-0.006222,0.613018,-0.010149,neg_num_pos_den,Wholesale trade,4,True
+35,2019-Q1,2026-Q1,0.177684,0.354242,0.501589,both_positive,Retail trade,4,True
+36,2019-Q1,2026-Q1,0.331365,0.129337,2.562032,both_positive,Motor vehicle and parts dealers,8,True
+37,2019-Q1,2026-Q1,-0.028839,0.543163,-0.053095,neg_num_pos_den,Food and beverage stores,8,True
+38,2019-Q1,2026-Q1,-0.074453,0.649184,-0.114687,neg_num_pos_den,General merchandise stores,8,True
+39,2019-Q1,2026-Q1,0.237939,0.348172,0.683394,both_positive,Other retail,8,True
+40,2019-Q1,2026-Q1,0.145201,0.321383,0.451799,both_positive,Transportation and warehousing,4,True
+41,2019-Q1,2026-Q1,0.357547,0.099804,3.582503,both_positive,Air transportation,8,True
+42,2019-Q1,2026-Q1,-0.121356,0.227707,-0.532950,neg_num_pos_den,Rail transportation,8,True
+43,2019-Q1,2026-Q1,0.241145,0.191224,1.261062,both_positive,Water transportation,8,True
+44,2019-Q1,2026-Q1,0.048689,0.328214,0.148344,both_positive,Truck transportation,8,True
+45,2019-Q1,2026-Q1,0.838265,-0.077970,-10.751179,pos_num_neg_den,Transit and ground passenger transportation,8,True
+46,2019-Q1,2026-Q1,-0.027202,0.350149,-0.077688,neg_num_pos_den,Pipeline transportation,8,True
+47,2019-Q1,2026-Q1,0.137735,0.446868,0.308223,both_positive,Other transportation and support activities,8,True
+48,2019-Q1,2026-Q1,0.172168,0.629286,0.273592,both_positive,Warehousing and storage,8,True
+49,2019-Q1,2026-Q1,0.740160,-0.061806,-11.975440,pos_num_neg_den,Information,4,True
+50,2019-Q1,2026-Q1,0.935861,-0.033353,-28.058995,pos_num_neg_den,"Publishing industries, except internet (includes software)",8,True
+51,2019-Q1,2026-Q1,0.334391,0.044352,7.539464,both_positive,Motion picture and sound recording industries,8,True
+52,2019-Q1,2026-Q1,0.123126,-0.063934,-1.925834,pos_num_neg_den,Broadcasting and telecommunications,8,True
+53,2019-Q1,2026-Q1,1.920945,-0.108697,-17.672393,pos_num_neg_den,"Data processing, internet publishing, and other information services",8,True
+54,2019-Q1,2026-Q1,0.204950,0.318418,0.643651,both_positive,"Finance, insurance, real estate, rental, and leasing",4,True
+55,2019-Q1,2026-Q1,0.131931,0.410401,0.321468,both_positive,Finance and insurance,8,True
+56,2019-Q1,2026-Q1,0.110546,0.417991,0.264469,both_positive,"Federal Reserve banks, credit intermediation, and related activities",12,True
+57,2019-Q1,2026-Q1,0.195178,0.553456,0.352654,both_positive,"Securities, commodity contracts, and investments",12,True
+58,2019-Q1,2026-Q1,0.097877,0.300944,0.325232,both_positive,Insurance carriers and related activities,12,True
+60,2019-Q1,2026-Q1,0.248373,0.268899,0.923665,both_positive,Real estate and rental and leasing,8,True
+61,2019-Q1,2026-Q1,0.232894,0.272302,0.855280,both_positive,Real estate,12,True
+64,2019-Q1,2026-Q1,0.420696,0.235666,1.785134,both_positive,Rental and leasing services and lessors of intangible assets,12,True
+65,2019-Q1,2026-Q1,0.361245,0.139087,2.597256,both_positive,Professional and business services,4,True
+66,2019-Q1,2026-Q1,0.452919,0.097205,4.659441,both_positive,"Professional, scientific, and technical services",8,True
+67,2019-Q1,2026-Q1,0.007435,0.562739,0.013211,both_positive,Legal services,12,True
+68,2019-Q1,2026-Q1,0.875804,-0.201424,-4.348073,pos_num_neg_den,Computer systems design and related services,12,True
+69,2019-Q1,2026-Q1,0.463805,0.118894,3.901005,both_positive,"Miscellaneous professional, scientific, and technical services",12,True
+70,2019-Q1,2026-Q1,0.338112,0.090430,3.738956,both_positive,Management of companies and enterprises,8,True
+71,2019-Q1,2026-Q1,0.165434,0.286695,0.577040,both_positive,Administrative and waste management services,8,True
+72,2019-Q1,2026-Q1,0.183595,0.258103,0.711324,both_positive,Administrative and support services,12,True
+73,2019-Q1,2026-Q1,0.002808,0.604259,0.004647,both_positive,Waste management and remediation services,12,True
+74,2019-Q1,2026-Q1,0.251112,0.220649,1.138063,both_positive,"Educational services, health care, and social assistance",4,True
+75,2019-Q1,2026-Q1,0.085757,0.224701,0.381650,both_positive,Educational services,8,True
+76,2019-Q1,2026-Q1,0.278939,0.219985,1.267993,both_positive,Health care and social assistance,8,True
+77,2019-Q1,2026-Q1,0.359316,0.147876,2.429846,both_positive,Ambulatory health care services,12,True
+78,2019-Q1,2026-Q1,0.182839,0.266049,0.687241,both_positive,Hospitals,12,True
+79,2019-Q1,2026-Q1,0.153288,0.317758,0.482407,both_positive,Nursing and residential care facilities,12,True
+80,2019-Q1,2026-Q1,0.347546,0.358845,0.968512,both_positive,Social assistance,12,True
+81,2019-Q1,2026-Q1,0.068373,0.441479,0.154872,both_positive,"Arts, entertainment, recreation, accommodation, and food services",4,True
+82,2019-Q1,2026-Q1,0.228413,0.336671,0.678446,both_positive,"Arts, entertainment, and recreation",8,True
+83,2019-Q1,2026-Q1,0.309844,0.271828,1.139856,both_positive,"Performing arts, spectator sports, museums, and related activities",12,True
+84,2019-Q1,2026-Q1,0.124080,0.430504,0.288220,both_positive,"Amusements, gambling, and recreation industries",12,True
+85,2019-Q1,2026-Q1,0.019727,0.476502,0.041399,both_positive,Accommodation and food services,8,True
+86,2019-Q1,2026-Q1,0.124929,0.302386,0.413145,both_positive,Accommodation,12,True
+87,2019-Q1,2026-Q1,-0.016272,0.547374,-0.029727,neg_num_pos_den,Food services and drinking places,12,True
+88,2019-Q1,2026-Q1,-0.089773,0.584855,-0.153497,neg_num_pos_den,"Other services, except government",4,False

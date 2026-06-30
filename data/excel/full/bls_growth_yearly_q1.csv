@@ -1,0 +1,533 @@
+﻿line_id,year,period_start,period_end,employment_thousands_growth,avg_hourly_earnings_growth,industry_name,indent_level,is_private
+6,2019,2019-Q1,2020-Q1,-0.089443,0.044883,Mining,4,True
+6,2020,2020-Q1,2021-Q1,-0.210160,0.003698,Mining,4,True
+6,2021,2021-Q1,2022-Q1,0.075861,0.023902,Mining,4,True
+6,2022,2022-Q1,2023-Q1,0.095690,0.046319,Mining,4,True
+6,2023,2023-Q1,2024-Q1,0.004075,0.053527,Mining,4,True
+6,2024,2024-Q1,2025-Q1,-0.018884,0.024860,Mining,4,True
+6,2025,2025-Q1,2026-Q1,-0.025682,0.019356,Mining,4,True
+7,2019,2019-Q1,2020-Q1,-0.046919,0.035164,Oil and gas extraction,8,True
+7,2020,2020-Q1,2021-Q1,-0.168748,-0.026183,Oil and gas extraction,8,True
+7,2021,2021-Q1,2022-Q1,-0.013553,-0.037572,Oil and gas extraction,8,True
+7,2022,2022-Q1,2023-Q1,0.039725,0.120497,Oil and gas extraction,8,True
+7,2023,2023-Q1,2024-Q1,0.051709,-0.051375,Oil and gas extraction,8,True
+7,2024,2024-Q1,2025-Q1,-0.025130,0.004219,Oil and gas extraction,8,True
+7,2025,2025-Q1,2026-Q1,-0.026058,0.047937,Oil and gas extraction,8,True
+8,2019,2019-Q1,2020-Q1,-0.037554,0.034886,"Mining, except oil and gas",8,True
+8,2020,2020-Q1,2021-Q1,-0.064077,0.004755,"Mining, except oil and gas",8,True
+8,2021,2021-Q1,2022-Q1,0.032320,0.065208,"Mining, except oil and gas",8,True
+8,2022,2022-Q1,2023-Q1,0.038718,0.034558,"Mining, except oil and gas",8,True
+8,2023,2023-Q1,2024-Q1,0.026574,0.062989,"Mining, except oil and gas",8,True
+8,2024,2024-Q1,2025-Q1,-0.010598,0.015532,"Mining, except oil and gas",8,True
+8,2025,2025-Q1,2026-Q1,-0.012994,0.030501,"Mining, except oil and gas",8,True
+9,2019,2019-Q1,2020-Q1,-0.134406,0.038145,Support activities for mining,8,True
+9,2020,2020-Q1,2021-Q1,-0.316033,0.017119,Support activities for mining,8,True
+9,2021,2021-Q1,2022-Q1,0.159309,0.048645,Support activities for mining,8,True
+9,2022,2022-Q1,2023-Q1,0.162759,0.023684,Support activities for mining,8,True
+9,2023,2023-Q1,2024-Q1,-0.029953,0.093881,Support activities for mining,8,True
+9,2024,2024-Q1,2025-Q1,-0.021867,0.047719,Support activities for mining,8,True
+9,2025,2025-Q1,2026-Q1,-0.034394,-0.000501,Support activities for mining,8,True
+10,2019,2019-Q1,2020-Q1,-0.006054,0.025094,Utilities,4,True
+10,2020,2020-Q1,2021-Q1,-0.008466,0.036368,Utilities,4,True
+10,2021,2021-Q1,2022-Q1,0.015480,0.052600,Utilities,4,True
+10,2022,2022-Q1,2023-Q1,0.032726,0.054416,Utilities,4,True
+10,2023,2023-Q1,2024-Q1,0.033915,0.034745,Utilities,4,True
+10,2024,2024-Q1,2025-Q1,0.017619,0.026022,Utilities,4,True
+10,2025,2025-Q1,2026-Q1,0.011469,0.048546,Utilities,4,True
+11,2019,2019-Q1,2020-Q1,0.021623,0.029573,Construction,4,True
+11,2020,2020-Q1,2021-Q1,-0.030230,0.028404,Construction,4,True
+11,2021,2021-Q1,2022-Q1,0.040791,0.054412,Construction,4,True
+11,2022,2022-Q1,2023-Q1,0.037623,0.054449,Construction,4,True
+11,2023,2023-Q1,2024-Q1,0.025965,0.049684,Construction,4,True
+11,2024,2024-Q1,2025-Q1,0.015766,0.040862,Construction,4,True
+11,2025,2025-Q1,2026-Q1,0.004838,0.040194,Construction,4,True
+13,2019,2019-Q1,2020-Q1,-0.008726,0.030524,Durable goods,8,True
+13,2020,2020-Q1,2021-Q1,-0.050386,0.029732,Durable goods,8,True
+13,2021,2021-Q1,2022-Q1,0.036064,0.047723,Durable goods,8,True
+13,2022,2022-Q1,2023-Q1,0.026629,0.035982,Durable goods,8,True
+13,2023,2023-Q1,2024-Q1,-0.003154,0.063541,Durable goods,8,True
+13,2024,2024-Q1,2025-Q1,-0.018693,0.050684,Durable goods,8,True
+13,2025,2025-Q1,2026-Q1,-0.005643,0.040244,Durable goods,8,True
+14,2019,2019-Q1,2020-Q1,0.005000,0.041838,Wood products,12,True
+14,2020,2020-Q1,2021-Q1,-0.008401,0.039398,Wood products,12,True
+14,2021,2021-Q1,2022-Q1,0.050502,0.055905,Wood products,12,True
+14,2022,2022-Q1,2023-Q1,-0.007047,0.065419,Wood products,12,True
+14,2023,2023-Q1,2024-Q1,-0.013168,0.057890,Wood products,12,True
+14,2024,2024-Q1,2025-Q1,-0.021015,0.039105,Wood products,12,True
+14,2025,2025-Q1,2026-Q1,-0.038035,0.024142,Wood products,12,True
+15,2019,2019-Q1,2020-Q1,-0.006821,0.020530,Nonmetallic mineral products,12,True
+15,2020,2020-Q1,2021-Q1,-0.049114,0.050227,Nonmetallic mineral products,12,True
+15,2021,2021-Q1,2022-Q1,0.043840,0.072294,Nonmetallic mineral products,12,True
+15,2022,2022-Q1,2023-Q1,0.020517,0.007606,Nonmetallic mineral products,12,True
+15,2023,2023-Q1,2024-Q1,-0.007726,0.067483,Nonmetallic mineral products,12,True
+15,2024,2024-Q1,2025-Q1,-0.006833,0.037608,Nonmetallic mineral products,12,True
+15,2025,2025-Q1,2026-Q1,0.005440,0.030256,Nonmetallic mineral products,12,True
+16,2019,2019-Q1,2020-Q1,-0.024325,0.029165,Primary metals,12,True
+16,2020,2020-Q1,2021-Q1,-0.091564,0.007557,Primary metals,12,True
+16,2021,2021-Q1,2022-Q1,0.043873,0.061291,Primary metals,12,True
+16,2022,2022-Q1,2023-Q1,0.033883,0.057531,Primary metals,12,True
+16,2023,2023-Q1,2024-Q1,0.001164,0.067453,Primary metals,12,True
+16,2024,2024-Q1,2025-Q1,-0.021733,0.034921,Primary metals,12,True
+16,2025,2025-Q1,2026-Q1,-0.001463,0.023157,Primary metals,12,True
+17,2019,2019-Q1,2020-Q1,-0.020773,0.047378,Fabricated metal products,12,True
+17,2020,2020-Q1,2021-Q1,-0.066927,0.039755,Fabricated metal products,12,True
+17,2021,2021-Q1,2022-Q1,0.037379,0.041544,Fabricated metal products,12,True
+17,2022,2022-Q1,2023-Q1,0.023637,0.043064,Fabricated metal products,12,True
+17,2023,2023-Q1,2024-Q1,0.001565,0.062831,Fabricated metal products,12,True
+17,2024,2024-Q1,2025-Q1,-0.010780,0.033432,Fabricated metal products,12,True
+17,2025,2025-Q1,2026-Q1,0.004461,0.037075,Fabricated metal products,12,True
+18,2019,2019-Q1,2020-Q1,-0.035757,0.042031,Machinery,12,True
+18,2020,2020-Q1,2021-Q1,-0.106613,0.014939,Machinery,12,True
+18,2021,2021-Q1,2022-Q1,0.079903,0.042346,Machinery,12,True
+18,2022,2022-Q1,2023-Q1,0.053972,0.042364,Machinery,12,True
+18,2023,2023-Q1,2024-Q1,-0.002279,0.082847,Machinery,12,True
+18,2024,2024-Q1,2025-Q1,-0.074322,-0.000289,Machinery,12,True
+18,2025,2025-Q1,2026-Q1,-0.009543,-0.023681,Machinery,12,True
+19,2019,2019-Q1,2020-Q1,0.008614,0.016616,Computer and electronic products,12,True
+19,2020,2020-Q1,2021-Q1,-0.029844,0.020117,Computer and electronic products,12,True
+19,2021,2021-Q1,2022-Q1,0.019189,0.066203,Computer and electronic products,12,True
+19,2022,2022-Q1,2023-Q1,0.029762,0.016679,Computer and electronic products,12,True
+19,2023,2023-Q1,2024-Q1,-0.022744,0.049379,Computer and electronic products,12,True
+19,2024,2024-Q1,2025-Q1,-0.029542,0.078090,Computer and electronic products,12,True
+19,2025,2025-Q1,2026-Q1,-0.017655,0.050108,Computer and electronic products,12,True
+20,2019,2019-Q1,2020-Q1,-0.018273,0.002146,"Electrical equipment, appliances, and components",12,True
+20,2020,2020-Q1,2021-Q1,-0.030184,0.010471,"Electrical equipment, appliances, and components",12,True
+20,2021,2021-Q1,2022-Q1,0.034322,0.065591,"Electrical equipment, appliances, and components",12,True
+20,2022,2022-Q1,2023-Q1,0.040371,0.064980,"Electrical equipment, appliances, and components",12,True
+20,2023,2023-Q1,2024-Q1,0.007793,0.128463,"Electrical equipment, appliances, and components",12,True
+20,2024,2024-Q1,2025-Q1,0.022162,0.013333,"Electrical equipment, appliances, and components",12,True
+20,2025,2025-Q1,2026-Q1,0.015442,0.106261,"Electrical equipment, appliances, and components",12,True
+21,2019,2019-Q1,2020-Q1,-0.028646,0.036309,"Motor vehicles, bodies and trailers, and parts",12,True
+21,2020,2020-Q1,2021-Q1,-0.026537,0.037134,"Motor vehicles, bodies and trailers, and parts",12,True
+21,2021,2021-Q1,2022-Q1,0.032771,0.060888,"Motor vehicles, bodies and trailers, and parts",12,True
+21,2022,2022-Q1,2023-Q1,0.039922,0.016471,"Motor vehicles, bodies and trailers, and parts",12,True
+21,2023,2023-Q1,2024-Q1,-0.004855,0.073732,"Motor vehicles, bodies and trailers, and parts",12,True
+21,2024,2024-Q1,2025-Q1,-0.044255,0.081401,"Motor vehicles, bodies and trailers, and parts",12,True
+21,2025,2025-Q1,2026-Q1,-0.020352,0.018771,"Motor vehicles, bodies and trailers, and parts",12,True
+22,2019,2019-Q1,2020-Q1,0.024277,0.012358,Other transportation equipment,12,True
+22,2020,2020-Q1,2021-Q1,-0.083696,0.033571,Other transportation equipment,12,True
+22,2021,2021-Q1,2022-Q1,0.022884,0.044924,Other transportation equipment,12,True
+22,2022,2022-Q1,2023-Q1,0.056647,0.027451,Other transportation equipment,12,True
+22,2023,2023-Q1,2024-Q1,0.052524,0.032349,Other transportation equipment,12,True
+22,2024,2024-Q1,2025-Q1,-0.001161,0.032033,Other transportation equipment,12,True
+22,2025,2025-Q1,2026-Q1,0.015707,0.070068,Other transportation equipment,12,True
+23,2019,2019-Q1,2020-Q1,-0.015805,0.022423,Furniture and related products,12,True
+23,2020,2020-Q1,2021-Q1,-0.039757,0.041066,Furniture and related products,12,True
+23,2021,2021-Q1,2022-Q1,0.038058,0.070974,Furniture and related products,12,True
+23,2022,2022-Q1,2023-Q1,-0.043543,0.068779,Furniture and related products,12,True
+23,2023,2023-Q1,2024-Q1,-0.045252,0.011240,Furniture and related products,12,True
+23,2024,2024-Q1,2025-Q1,-0.034427,0.037132,Furniture and related products,12,True
+23,2025,2025-Q1,2026-Q1,-0.008790,0.027676,Furniture and related products,12,True
+24,2019,2019-Q1,2020-Q1,0.011160,0.048950,Miscellaneous manufacturing,12,True
+24,2020,2020-Q1,2021-Q1,-0.042004,0.099472,Miscellaneous manufacturing,12,True
+24,2021,2021-Q1,2022-Q1,0.046027,0.006367,Miscellaneous manufacturing,12,True
+24,2022,2022-Q1,2023-Q1,0.011067,-0.009101,Miscellaneous manufacturing,12,True
+24,2023,2023-Q1,2024-Q1,-0.015599,0.068884,Miscellaneous manufacturing,12,True
+24,2024,2024-Q1,2025-Q1,-0.011173,0.060044,Miscellaneous manufacturing,12,True
+24,2025,2025-Q1,2026-Q1,-0.007171,0.032720,Miscellaneous manufacturing,12,True
+25,2019,2019-Q1,2020-Q1,0.001539,0.038415,Nondurable goods,8,True
+25,2020,2020-Q1,2021-Q1,-0.029827,0.032611,Nondurable goods,8,True
+25,2021,2021-Q1,2022-Q1,0.034488,0.048184,Nondurable goods,8,True
+25,2022,2022-Q1,2023-Q1,0.015660,0.043111,Nondurable goods,8,True
+25,2023,2023-Q1,2024-Q1,-0.003426,0.035506,Nondurable goods,8,True
+25,2024,2024-Q1,2025-Q1,-0.007151,0.036494,Nondurable goods,8,True
+25,2025,2025-Q1,2026-Q1,-0.007895,0.041804,Nondurable goods,8,True
+26,2019,2019-Q1,2020-Q1,0.018177,0.030659,Food and beverage and tobacco products,12,True
+26,2020,2020-Q1,2021-Q1,-0.017701,0.035142,Food and beverage and tobacco products,12,True
+26,2021,2021-Q1,2022-Q1,0.038118,0.060304,Food and beverage and tobacco products,12,True
+26,2022,2022-Q1,2023-Q1,0.035990,0.070777,Food and beverage and tobacco products,12,True
+26,2023,2023-Q1,2024-Q1,0.017905,0.038033,Food and beverage and tobacco products,12,True
+26,2024,2024-Q1,2025-Q1,0.005272,0.040177,Food and beverage and tobacco products,12,True
+26,2025,2025-Q1,2026-Q1,-0.003450,0.035953,Food and beverage and tobacco products,12,True
+27,2019,2019-Q1,2020-Q1,-0.033046,0.044815,Textile mills and textile product mills,12,True
+27,2020,2020-Q1,2021-Q1,-0.083282,0.045739,Textile mills and textile product mills,12,True
+27,2021,2021-Q1,2022-Q1,0.030059,0.027017,Textile mills and textile product mills,12,True
+27,2022,2022-Q1,2023-Q1,-0.045321,0.043356,Textile mills and textile product mills,12,True
+27,2023,2023-Q1,2024-Q1,-0.050034,0.042562,Textile mills and textile product mills,12,True
+27,2024,2024-Q1,2025-Q1,-0.043142,0.050302,Textile mills and textile product mills,12,True
+27,2025,2025-Q1,2026-Q1,-0.020665,0.065255,Textile mills and textile product mills,12,True
+28,2019,2019-Q1,2020-Q1,-0.067560,0.019715,Apparel and leather and allied products,12,True
+28,2020,2020-Q1,2021-Q1,-0.131184,-0.056068,Apparel and leather and allied products,12,True
+28,2021,2021-Q1,2022-Q1,0.024614,0.105089,Apparel and leather and allied products,12,True
+28,2022,2022-Q1,2023-Q1,-0.021155,0.039778,Apparel and leather and allied products,12,True
+28,2023,2023-Q1,2024-Q1,-0.053846,0.012478,Apparel and leather and allied products,12,True
+28,2024,2024-Q1,2025-Q1,-0.055362,-0.017064,Apparel and leather and allied products,12,True
+28,2025,2025-Q1,2026-Q1,-0.087295,-0.040783,Apparel and leather and allied products,12,True
+29,2019,2019-Q1,2020-Q1,-0.007117,0.056889,Paper products,12,True
+29,2020,2020-Q1,2021-Q1,-0.033817,0.016941,Paper products,12,True
+29,2021,2021-Q1,2022-Q1,0.025395,0.060255,Paper products,12,True
+29,2022,2022-Q1,2023-Q1,0.007235,-0.016046,Paper products,12,True
+29,2023,2023-Q1,2024-Q1,-0.017497,0.046886,Paper products,12,True
+29,2024,2024-Q1,2025-Q1,-0.002999,0.038836,Paper products,12,True
+29,2025,2025-Q1,2026-Q1,0.003572,0.052379,Paper products,12,True
+30,2019,2019-Q1,2020-Q1,-0.022292,0.043791,Printing and related support activities,12,True
+30,2020,2020-Q1,2021-Q1,-0.128827,0.079078,Printing and related support activities,12,True
+30,2021,2021-Q1,2022-Q1,0.033034,0.023788,Printing and related support activities,12,True
+30,2022,2022-Q1,2023-Q1,-0.002746,0.014116,Printing and related support activities,12,True
+30,2023,2023-Q1,2024-Q1,-0.039172,0.048411,Printing and related support activities,12,True
+30,2024,2024-Q1,2025-Q1,-0.035407,0.053343,Printing and related support activities,12,True
+30,2025,2025-Q1,2026-Q1,-0.019743,0.036029,Printing and related support activities,12,True
+31,2019,2019-Q1,2020-Q1,-0.021946,,Petroleum and coal products,12,True
+31,2020,2020-Q1,2021-Q1,-0.060230,,Petroleum and coal products,12,True
+31,2021,2021-Q1,2022-Q1,-0.020735,,Petroleum and coal products,12,True
+31,2022,2022-Q1,2023-Q1,0.027591,,Petroleum and coal products,12,True
+31,2023,2023-Q1,2024-Q1,0.035904,,Petroleum and coal products,12,True
+31,2024,2024-Q1,2025-Q1,0.000301,,Petroleum and coal products,12,True
+31,2025,2025-Q1,2026-Q1,-0.013257,,Petroleum and coal products,12,True
+32,2019,2019-Q1,2020-Q1,0.007247,0.044077,Chemical products,12,True
+32,2020,2020-Q1,2021-Q1,0.010949,0.034387,Chemical products,12,True
+32,2021,2021-Q1,2022-Q1,0.034541,0.029029,Chemical products,12,True
+32,2022,2022-Q1,2023-Q1,0.011291,0.019086,Chemical products,12,True
+32,2023,2023-Q1,2024-Q1,-0.007246,0.045313,Chemical products,12,True
+32,2024,2024-Q1,2025-Q1,0.003873,0.036008,Chemical products,12,True
+32,2025,2025-Q1,2026-Q1,-0.001558,0.038721,Chemical products,12,True
+33,2019,2019-Q1,2020-Q1,-0.006178,0.058247,Plastics and rubber products,12,True
+33,2020,2020-Q1,2021-Q1,-0.016363,0.024433,Plastics and rubber products,12,True
+33,2021,2021-Q1,2022-Q1,0.040054,0.066440,Plastics and rubber products,12,True
+33,2022,2022-Q1,2023-Q1,-0.001072,0.057508,Plastics and rubber products,12,True
+33,2023,2023-Q1,2024-Q1,-0.021065,0.016035,Plastics and rubber products,12,True
+33,2024,2024-Q1,2025-Q1,-0.030473,0.028820,Plastics and rubber products,12,True
+33,2025,2025-Q1,2026-Q1,-0.016399,0.051578,Plastics and rubber products,12,True
+34,2019,2019-Q1,2020-Q1,0.001349,0.025140,Wholesale trade,4,True
+34,2020,2020-Q1,2021-Q1,-0.045619,0.040034,Wholesale trade,4,True
+34,2021,2021-Q1,2022-Q1,0.046383,0.044740,Wholesale trade,4,True
+34,2022,2022-Q1,2023-Q1,0.034900,0.049576,Wholesale trade,4,True
+34,2023,2023-Q1,2024-Q1,0.006365,0.030693,Wholesale trade,4,True
+34,2024,2024-Q1,2025-Q1,-0.008844,0.019882,Wholesale trade,4,True
+34,2025,2025-Q1,2026-Q1,-0.003421,0.039514,Wholesale trade,4,True
+35,2019,2019-Q1,2020-Q1,-0.006704,0.045939,Retail trade,4,True
+35,2020,2020-Q1,2021-Q1,-0.018875,0.051324,Retail trade,4,True
+35,2021,2021-Q1,2022-Q1,0.020082,0.063057,Retail trade,4,True
+35,2022,2022-Q1,2023-Q1,0.004593,0.044009,Retail trade,4,True
+35,2023,2023-Q1,2024-Q1,-0.002888,0.027492,Retail trade,4,True
+35,2024,2024-Q1,2025-Q1,-0.004792,0.031970,Retail trade,4,True
+35,2025,2025-Q1,2026-Q1,-0.001532,0.042016,Retail trade,4,True
+36,2019,2019-Q1,2020-Q1,0.008486,0.035872,Motor vehicle and parts dealers,8,True
+36,2020,2020-Q1,2021-Q1,-0.051939,0.074041,Motor vehicle and parts dealers,8,True
+36,2021,2021-Q1,2022-Q1,0.028725,0.105991,Motor vehicle and parts dealers,8,True
+36,2022,2022-Q1,2023-Q1,0.016185,0.016969,Motor vehicle and parts dealers,8,True
+36,2023,2023-Q1,2024-Q1,0.011715,-0.003637,Motor vehicle and parts dealers,8,True
+36,2024,2024-Q1,2025-Q1,0.001659,0.034031,Motor vehicle and parts dealers,8,True
+36,2025,2025-Q1,2026-Q1,-0.000390,0.043916,Motor vehicle and parts dealers,8,True
+37,2019,2019-Q1,2020-Q1,-0.003478,0.038634,Food and beverage stores,8,True
+37,2020,2020-Q1,2021-Q1,0.028895,0.068845,Food and beverage stores,8,True
+37,2021,2021-Q1,2022-Q1,-0.014784,0.119592,Food and beverage stores,8,True
+37,2022,2022-Q1,2023-Q1,0.022103,0.039499,Food and beverage stores,8,True
+37,2023,2023-Q1,2024-Q1,-0.004471,0.065587,Food and beverage stores,8,True
+37,2024,2024-Q1,2025-Q1,0.006220,0.024186,Food and beverage stores,8,True
+37,2025,2025-Q1,2026-Q1,0.004546,0.019528,Food and beverage stores,8,True
+38,2019,2019-Q1,2020-Q1,-0.011025,0.065262,General merchandise stores,8,True
+38,2020,2020-Q1,2021-Q1,0.028169,0.058313,General merchandise stores,8,True
+38,2021,2021-Q1,2022-Q1,0.015362,-0.027386,General merchandise stores,8,True
+38,2022,2022-Q1,2023-Q1,-0.004866,0.055808,General merchandise stores,8,True
+38,2023,2023-Q1,2024-Q1,0.016071,0.026828,General merchandise stores,8,True
+38,2024,2024-Q1,2025-Q1,0.001861,0.053033,General merchandise stores,8,True
+38,2025,2025-Q1,2026-Q1,-0.003962,0.057008,General merchandise stores,8,True
+39,2019,2019-Q1,2020-Q1,-0.013345,0.035283,Other retail,8,True
+39,2020,2020-Q1,2021-Q1,-0.079827,0.062469,Other retail,8,True
+39,2021,2021-Q1,2022-Q1,0.045830,0.061357,Other retail,8,True
+39,2022,2022-Q1,2023-Q1,0.009266,0.057699,Other retail,8,True
+39,2023,2023-Q1,2024-Q1,-0.006332,0.023860,Other retail,8,True
+39,2024,2024-Q1,2025-Q1,-0.013265,0.026883,Other retail,8,True
+39,2025,2025-Q1,2026-Q1,0.007119,0.043863,Other retail,8,True
+40,2019,2019-Q1,2020-Q1,0.039142,0.019019,Transportation and warehousing,4,True
+40,2020,2020-Q1,2021-Q1,0.024489,0.025730,Transportation and warehousing,4,True
+40,2021,2021-Q1,2022-Q1,0.101819,0.067325,Transportation and warehousing,4,True
+40,2022,2022-Q1,2023-Q1,0.006761,0.044812,Transportation and warehousing,4,True
+40,2023,2023-Q1,2024-Q1,-0.000030,0.063054,Transportation and warehousing,4,True
+40,2024,2024-Q1,2025-Q1,0.012785,0.023243,Transportation and warehousing,4,True
+40,2025,2025-Q1,2026-Q1,-0.017857,0.038573,Transportation and warehousing,4,True
+41,2019,2019-Q1,2020-Q1,0.031596,0.036266,Air transportation,8,True
+41,2020,2020-Q1,2021-Q1,-0.141574,0.081783,Air transportation,8,True
+41,2021,2021-Q1,2022-Q1,0.093188,0.090754,Air transportation,8,True
+41,2022,2022-Q1,2023-Q1,0.110032,-0.003434,Air transportation,8,True
+41,2023,2023-Q1,2024-Q1,0.045903,0.077929,Air transportation,8,True
+41,2024,2024-Q1,2025-Q1,0.008956,0.033786,Air transportation,8,True
+41,2025,2025-Q1,2026-Q1,0.010992,0.036337,Air transportation,8,True
+42,2019,2019-Q1,2020-Q1,-0.121902,,Rail transportation,8,True
+42,2020,2020-Q1,2021-Q1,-0.083002,,Rail transportation,8,True
+42,2021,2021-Q1,2022-Q1,-0.009348,,Rail transportation,8,True
+42,2022,2022-Q1,2023-Q1,0.043498,,Rail transportation,8,True
+42,2023,2023-Q1,2024-Q1,0.041685,,Rail transportation,8,True
+42,2024,2024-Q1,2025-Q1,-0.007199,,Rail transportation,8,True
+42,2025,2025-Q1,2026-Q1,-0.036895,,Rail transportation,8,True
+43,2019,2019-Q1,2020-Q1,0.024316,,Water transportation,8,True
+43,2020,2020-Q1,2021-Q1,-0.156281,,Water transportation,8,True
+43,2021,2021-Q1,2022-Q1,0.082063,,Water transportation,8,True
+43,2022,2022-Q1,2023-Q1,0.100758,,Water transportation,8,True
+43,2023,2023-Q1,2024-Q1,0.022146,,Water transportation,8,True
+43,2024,2024-Q1,2025-Q1,0.004333,,Water transportation,8,True
+43,2025,2025-Q1,2026-Q1,0.031160,,Water transportation,8,True
+44,2019,2019-Q1,2020-Q1,-0.008393,0.045546,Truck transportation,8,True
+44,2020,2020-Q1,2021-Q1,-0.014246,0.026778,Truck transportation,8,True
+44,2021,2021-Q1,2022-Q1,0.044492,0.061892,Truck transportation,8,True
+44,2022,2022-Q1,2023-Q1,0.012555,0.058402,Truck transportation,8,True
+44,2023,2023-Q1,2024-Q1,-0.031820,0.033529,Truck transportation,8,True
+44,2024,2024-Q1,2025-Q1,-0.025983,0.026856,Truck transportation,8,True
+44,2025,2025-Q1,2026-Q1,-0.017240,0.041532,Truck transportation,8,True
+45,2019,2019-Q1,2020-Q1,-0.012680,0.059045,Transit and ground passenger transportation,8,True
+45,2020,2020-Q1,2021-Q1,-0.274259,0.037654,Transit and ground passenger transportation,8,True
+45,2021,2021-Q1,2022-Q1,0.121723,0.112599,Transit and ground passenger transportation,8,True
+45,2022,2022-Q1,2023-Q1,0.070701,0.075028,Transit and ground passenger transportation,8,True
+45,2023,2023-Q1,2024-Q1,0.076869,0.105990,Transit and ground passenger transportation,8,True
+45,2024,2024-Q1,2025-Q1,0.058930,-0.006593,Transit and ground passenger transportation,8,True
+45,2025,2025-Q1,2026-Q1,0.009093,0.018606,Transit and ground passenger transportation,8,True
+46,2019,2019-Q1,2020-Q1,0.025675,,Pipeline transportation,8,True
+46,2020,2020-Q1,2021-Q1,-0.059050,,Pipeline transportation,8,True
+46,2021,2021-Q1,2022-Q1,0.035471,,Pipeline transportation,8,True
+46,2022,2022-Q1,2023-Q1,0.020422,,Pipeline transportation,8,True
+46,2023,2023-Q1,2024-Q1,0.055520,,Pipeline transportation,8,True
+46,2024,2024-Q1,2025-Q1,0.010398,,Pipeline transportation,8,True
+46,2025,2025-Q1,2026-Q1,0.013317,,Pipeline transportation,8,True
+47,2019,2019-Q1,2020-Q1,0.009691,0.022936,Other transportation and support activities,8,True
+47,2020,2020-Q1,2021-Q1,-0.089662,0.079721,Other transportation and support activities,8,True
+47,2021,2021-Q1,2022-Q1,0.117497,0.074988,Other transportation and support activities,8,True
+47,2022,2022-Q1,2023-Q1,0.057930,0.030908,Other transportation and support activities,8,True
+47,2023,2023-Q1,2024-Q1,0.009192,0.042786,Other transportation and support activities,8,True
+47,2024,2024-Q1,2025-Q1,0.003101,0.041929,Other transportation and support activities,8,True
+47,2025,2025-Q1,2026-Q1,-0.006066,0.036984,Other transportation and support activities,8,True
+48,2019,2019-Q1,2020-Q1,0.126087,0.019800,Warehousing and storage,8,True
+48,2020,2020-Q1,2021-Q1,0.207257,0.062099,Warehousing and storage,8,True
+48,2021,2021-Q1,2022-Q1,0.195477,0.021604,Warehousing and storage,8,True
+48,2022,2022-Q1,2023-Q1,-0.035670,0.023514,Warehousing and storage,8,True
+48,2023,2023-Q1,2024-Q1,-0.002224,0.068776,Warehousing and storage,8,True
+48,2024,2024-Q1,2025-Q1,0.022903,0.017710,Warehousing and storage,8,True
+48,2025,2025-Q1,2026-Q1,-0.026818,0.057917,Warehousing and storage,8,True
+49,2019,2019-Q1,2020-Q1,0.020975,0.026609,Information,4,True
+49,2020,2020-Q1,2021-Q1,-0.049581,0.032128,Information,4,True
+49,2021,2021-Q1,2022-Q1,0.085859,0.021805,Information,4,True
+49,2022,2022-Q1,2023-Q1,0.018461,0.058425,Information,4,True
+49,2023,2023-Q1,2024-Q1,-0.031230,0.026210,Information,4,True
+49,2024,2024-Q1,2025-Q1,-0.028404,0.051013,Information,4,True
+49,2025,2025-Q1,2026-Q1,-0.025522,0.050535,Information,4,True
+50,2019,2019-Q1,2020-Q1,0.047892,0.004071,"Publishing industries, except internet (includes software)",8,True
+50,2020,2020-Q1,2021-Q1,0.002403,0.028803,"Publishing industries, except internet (includes software)",8,True
+50,2021,2021-Q1,2022-Q1,0.085331,-0.026094,"Publishing industries, except internet (includes software)",8,True
+50,2022,2022-Q1,2023-Q1,0.038424,0.118057,"Publishing industries, except internet (includes software)",8,True
+50,2023,2023-Q1,2024-Q1,-0.043105,0.036071,"Publishing industries, except internet (includes software)",8,True
+50,2024,2024-Q1,2025-Q1,-0.008929,0.058668,"Publishing industries, except internet (includes software)",8,True
+50,2025,2025-Q1,2026-Q1,-0.006766,0.028675,"Publishing industries, except internet (includes software)",8,True
+51,2019,2019-Q1,2020-Q1,-0.008646,0.041340,Motion picture and sound recording industries,8,True
+51,2020,2020-Q1,2021-Q1,-0.263311,0.111224,Motion picture and sound recording industries,8,True
+51,2021,2021-Q1,2022-Q1,0.381205,-0.059491,Motion picture and sound recording industries,8,True
+51,2022,2022-Q1,2023-Q1,-0.061650,-0.046894,Motion picture and sound recording industries,8,True
+51,2023,2023-Q1,2024-Q1,-0.035654,-0.012152,Motion picture and sound recording industries,8,True
+51,2024,2024-Q1,2025-Q1,-0.093220,0.070968,Motion picture and sound recording industries,8,True
+51,2025,2025-Q1,2026-Q1,-0.057999,0.060482,Motion picture and sound recording industries,8,True
+52,2019,2019-Q1,2020-Q1,-0.028522,0.043074,Broadcasting and telecommunications,8,True
+52,2020,2020-Q1,2021-Q1,-0.039571,-0.023658,Broadcasting and telecommunications,8,True
+52,2021,2021-Q1,2022-Q1,-0.029436,0.049939,Broadcasting and telecommunications,8,True
+52,2022,2022-Q1,2023-Q1,-0.000609,0.040533,Broadcasting and telecommunications,8,True
+52,2023,2023-Q1,2024-Q1,-0.041005,-0.004372,Broadcasting and telecommunications,8,True
+52,2024,2024-Q1,2025-Q1,-0.046992,0.060284,Broadcasting and telecommunications,8,True
+52,2025,2025-Q1,2026-Q1,-0.037093,0.092703,Broadcasting and telecommunications,8,True
+53,2019,2019-Q1,2020-Q1,0.085716,0.026222,"Data processing, internet publishing, and other information services",8,True
+53,2020,2020-Q1,2021-Q1,0.021008,0.055062,"Data processing, internet publishing, and other information services",8,True
+53,2021,2021-Q1,2022-Q1,0.133042,0.079123,"Data processing, internet publishing, and other information services",8,True
+53,2022,2022-Q1,2023-Q1,0.078423,-0.003948,"Data processing, internet publishing, and other information services",8,True
+53,2023,2023-Q1,2024-Q1,-0.005812,0.036982,"Data processing, internet publishing, and other information services",8,True
+53,2024,2024-Q1,2025-Q1,-0.006795,0.033508,"Data processing, internet publishing, and other information services",8,True
+53,2025,2025-Q1,2026-Q1,-0.028271,0.035532,"Data processing, internet publishing, and other information services",8,True
+55,2019,2019-Q1,2020-Q1,0.017655,,Finance and insurance,8,True
+55,2020,2020-Q1,2021-Q1,0.002297,,Finance and insurance,8,True
+55,2021,2021-Q1,2022-Q1,0.018266,,Finance and insurance,8,True
+55,2022,2022-Q1,2023-Q1,0.011187,,Finance and insurance,8,True
+55,2023,2023-Q1,2024-Q1,-0.002926,,Finance and insurance,8,True
+55,2024,2024-Q1,2025-Q1,0.007140,,Finance and insurance,8,True
+55,2025,2025-Q1,2026-Q1,-0.005372,,Finance and insurance,8,True
+56,2019,2019-Q1,2020-Q1,0.009152,0.075224,"Federal Reserve banks, credit intermediation, and related activities",12,True
+56,2020,2020-Q1,2021-Q1,0.015780,0.107687,"Federal Reserve banks, credit intermediation, and related activities",12,True
+56,2021,2021-Q1,2022-Q1,-0.001466,0.002798,"Federal Reserve banks, credit intermediation, and related activities",12,True
+56,2022,2022-Q1,2023-Q1,-0.020499,0.020250,"Federal Reserve banks, credit intermediation, and related activities",12,True
+56,2023,2023-Q1,2024-Q1,-0.026173,0.068532,"Federal Reserve banks, credit intermediation, and related activities",12,True
+56,2024,2024-Q1,2025-Q1,-0.005539,0.061504,"Federal Reserve banks, credit intermediation, and related activities",12,True
+56,2025,2025-Q1,2026-Q1,-0.008162,0.043541,"Federal Reserve banks, credit intermediation, and related activities",12,True
+57,2019,2019-Q1,2020-Q1,-0.011351,-0.002969,"Securities, commodity contracts, and investments",12,True
+57,2020,2020-Q1,2021-Q1,-0.004975,0.069904,"Securities, commodity contracts, and investments",12,True
+57,2021,2021-Q1,2022-Q1,0.023847,0.118095,"Securities, commodity contracts, and investments",12,True
+57,2022,2022-Q1,2023-Q1,0.046433,0.049265,"Securities, commodity contracts, and investments",12,True
+57,2023,2023-Q1,2024-Q1,0.005134,0.072756,"Securities, commodity contracts, and investments",12,True
+57,2024,2024-Q1,2025-Q1,0.002964,-0.037609,"Securities, commodity contracts, and investments",12,True
+57,2025,2025-Q1,2026-Q1,0.011965,0.082816,"Securities, commodity contracts, and investments",12,True
+58,2019,2019-Q1,2020-Q1,0.029559,0.028603,Insurance carriers and related activities,12,True
+58,2020,2020-Q1,2021-Q1,-0.013659,0.045986,Insurance carriers and related activities,12,True
+58,2021,2021-Q1,2022-Q1,0.026025,0.028650,Insurance carriers and related activities,12,True
+58,2022,2022-Q1,2023-Q1,0.023320,0.056541,Insurance carriers and related activities,12,True
+58,2023,2023-Q1,2024-Q1,0.010310,0.053357,Insurance carriers and related activities,12,True
+58,2024,2024-Q1,2025-Q1,0.014262,0.052307,Insurance carriers and related activities,12,True
+58,2025,2025-Q1,2026-Q1,-0.016574,0.039709,Insurance carriers and related activities,12,True
+59,2019,2019-Q1,2020-Q1,0.023559,0.019759,"Funds, trusts, and other financial vehicles",12,True
+59,2020,2020-Q1,2021-Q1,0.026767,0.043960,"Funds, trusts, and other financial vehicles",12,True
+59,2021,2021-Q1,2022-Q1,0.073295,0.036773,"Funds, trusts, and other financial vehicles",12,True
+59,2022,2022-Q1,2023-Q1,0.071517,0.044587,"Funds, trusts, and other financial vehicles",12,True
+59,2023,2023-Q1,2024-Q1,0.027431,0.055805,"Funds, trusts, and other financial vehicles",12,True
+59,2024,2024-Q1,2025-Q1,0.028564,0.018413,"Funds, trusts, and other financial vehicles",12,True
+59,2025,2025-Q1,2026-Q1,0.045801,0.019326,"Funds, trusts, and other financial vehicles",12,True
+60,2019,2019-Q1,2020-Q1,0.023208,,Real estate and rental and leasing,8,True
+60,2020,2020-Q1,2021-Q1,-0.060830,,Real estate and rental and leasing,8,True
+60,2021,2021-Q1,2022-Q1,0.057102,,Real estate and rental and leasing,8,True
+60,2022,2022-Q1,2023-Q1,0.044465,,Real estate and rental and leasing,8,True
+60,2023,2023-Q1,2024-Q1,0.010759,,Real estate and rental and leasing,8,True
+60,2024,2024-Q1,2025-Q1,-0.002759,,Real estate and rental and leasing,8,True
+60,2025,2025-Q1,2026-Q1,-0.006971,,Real estate and rental and leasing,8,True
+61,2019,2019-Q1,2020-Q1,0.030020,0.024529,Real estate,12,True
+61,2020,2020-Q1,2021-Q1,-0.020790,0.058733,Real estate,12,True
+61,2021,2021-Q1,2022-Q1,0.047061,0.064053,Real estate,12,True
+61,2022,2022-Q1,2023-Q1,0.030268,0.050356,Real estate,12,True
+61,2023,2023-Q1,2024-Q1,0.007277,0.041164,Real estate,12,True
+61,2024,2024-Q1,2025-Q1,-0.000466,0.017806,Real estate,12,True
+61,2025,2025-Q1,2026-Q1,-0.004125,0.001787,Real estate,12,True
+64,2019,2019-Q1,2020-Q1,0.003991,0.016111,Rental and leasing services and lessors of intangible assets,12,True
+64,2020,2020-Q1,2021-Q1,-0.176724,0.012360,Rental and leasing services and lessors of intangible assets,12,True
+64,2021,2021-Q1,2022-Q1,0.091671,0.106672,Rental and leasing services and lessors of intangible assets,12,True
+64,2022,2022-Q1,2023-Q1,0.091345,0.017606,Rental and leasing services and lessors of intangible assets,12,True
+64,2023,2023-Q1,2024-Q1,0.021614,0.009527,Rental and leasing services and lessors of intangible assets,12,True
+64,2024,2024-Q1,2025-Q1,-0.009807,0.048812,Rental and leasing services and lessors of intangible assets,12,True
+64,2025,2025-Q1,2026-Q1,-0.015802,0.048919,Rental and leasing services and lessors of intangible assets,12,True
+66,2019,2019-Q1,2020-Q1,0.027054,0.027153,"Professional, scientific, and technical services",8,True
+66,2020,2020-Q1,2021-Q1,-0.002953,0.031137,"Professional, scientific, and technical services",8,True
+66,2021,2021-Q1,2022-Q1,0.068616,0.065102,"Professional, scientific, and technical services",8,True
+66,2022,2022-Q1,2023-Q1,0.038709,0.049825,"Professional, scientific, and technical services",8,True
+66,2023,2023-Q1,2024-Q1,0.007737,0.025267,"Professional, scientific, and technical services",8,True
+66,2024,2024-Q1,2025-Q1,-0.001586,0.046616,"Professional, scientific, and technical services",8,True
+66,2025,2025-Q1,2026-Q1,0.001270,0.037501,"Professional, scientific, and technical services",8,True
+67,2019,2019-Q1,2020-Q1,0.016448,0.045198,Legal services,12,True
+67,2020,2020-Q1,2021-Q1,-0.018588,0.019869,Legal services,12,True
+67,2021,2021-Q1,2022-Q1,0.025156,0.114668,Legal services,12,True
+67,2022,2022-Q1,2023-Q1,0.008967,0.073700,Legal services,12,True
+67,2023,2023-Q1,2024-Q1,0.012584,0.052902,Legal services,12,True
+67,2024,2024-Q1,2025-Q1,0.013402,0.037626,Legal services,12,True
+67,2025,2025-Q1,2026-Q1,0.018119,0.025471,Legal services,12,True
+68,2019,2019-Q1,2020-Q1,0.031362,0.011100,Computer systems design and related services,12,True
+68,2020,2020-Q1,2021-Q1,0.008934,0.034979,Computer systems design and related services,12,True
+68,2021,2021-Q1,2022-Q1,0.076371,0.076619,Computer systems design and related services,12,True
+68,2022,2022-Q1,2023-Q1,0.025686,0.029984,Computer systems design and related services,12,True
+68,2023,2023-Q1,2024-Q1,-0.015060,0.019724,Computer systems design and related services,12,True
+68,2024,2024-Q1,2025-Q1,-0.010830,0.065195,Computer systems design and related services,12,True
+68,2025,2025-Q1,2026-Q1,-0.017788,0.035497,Computer systems design and related services,12,True
+69,2019,2019-Q1,2020-Q1,0.027501,0.026893,"Miscellaneous professional, scientific, and technical services",12,True
+69,2020,2020-Q1,2021-Q1,-0.004263,0.031679,"Miscellaneous professional, scientific, and technical services",12,True
+69,2021,2021-Q1,2022-Q1,0.073756,0.051079,"Miscellaneous professional, scientific, and technical services",12,True
+69,2022,2022-Q1,2023-Q1,0.048570,0.054077,"Miscellaneous professional, scientific, and technical services",12,True
+69,2023,2023-Q1,2024-Q1,0.014936,0.027085,"Miscellaneous professional, scientific, and technical services",12,True
+69,2024,2024-Q1,2025-Q1,-0.000935,0.040251,"Miscellaneous professional, scientific, and technical services",12,True
+69,2025,2025-Q1,2026-Q1,0.004850,0.043116,"Miscellaneous professional, scientific, and technical services",12,True
+70,2019,2019-Q1,2020-Q1,0.006786,0.034244,Management of companies and enterprises,8,True
+70,2020,2020-Q1,2021-Q1,-0.032629,0.034683,Management of companies and enterprises,8,True
+70,2021,2021-Q1,2022-Q1,0.031530,0.014746,Management of companies and enterprises,8,True
+70,2022,2022-Q1,2023-Q1,0.032155,0.013333,Management of companies and enterprises,8,True
+70,2023,2023-Q1,2024-Q1,0.007609,0.041691,Management of companies and enterprises,8,True
+70,2024,2024-Q1,2025-Q1,-0.000204,0.065711,Management of companies and enterprises,8,True
+70,2025,2025-Q1,2026-Q1,0.000306,0.042482,Management of companies and enterprises,8,True
+71,2019,2019-Q1,2020-Q1,-0.005692,0.044863,Administrative and waste management services,8,True
+71,2020,2020-Q1,2021-Q1,-0.035498,0.044738,Administrative and waste management services,8,True
+71,2021,2021-Q1,2022-Q1,0.066918,0.101739,Administrative and waste management services,8,True
+71,2022,2022-Q1,2023-Q1,-0.000680,0.043172,Administrative and waste management services,8,True
+71,2023,2023-Q1,2024-Q1,-0.028465,0.047262,Administrative and waste management services,8,True
+71,2024,2024-Q1,2025-Q1,-0.017836,0.040234,Administrative and waste management services,8,True
+71,2025,2025-Q1,2026-Q1,-0.007062,0.032136,Administrative and waste management services,8,True
+72,2019,2019-Q1,2020-Q1,-0.007038,0.046515,Administrative and support services,12,True
+72,2020,2020-Q1,2021-Q1,-0.036784,0.045975,Administrative and support services,12,True
+72,2021,2021-Q1,2022-Q1,0.068610,0.106746,Administrative and support services,12,True
+72,2022,2022-Q1,2023-Q1,-0.003454,0.039847,Administrative and support services,12,True
+72,2023,2023-Q1,2024-Q1,-0.031370,0.044157,Administrative and support services,12,True
+72,2024,2024-Q1,2025-Q1,-0.020700,0.040831,Administrative and support services,12,True
+72,2025,2025-Q1,2026-Q1,-0.007928,0.037595,Administrative and support services,12,True
+73,2019,2019-Q1,2020-Q1,0.020953,0.027690,Waste management and remediation services,12,True
+73,2020,2020-Q1,2021-Q1,-0.010736,0.035964,Waste management and remediation services,12,True
+73,2021,2021-Q1,2022-Q1,0.035216,0.041247,Waste management and remediation services,12,True
+73,2022,2022-Q1,2023-Q1,0.052988,0.069322,Waste management and remediation services,12,True
+73,2023,2023-Q1,2024-Q1,0.024721,0.079749,Waste management and remediation services,12,True
+73,2024,2024-Q1,2025-Q1,0.031725,0.031545,Waste management and remediation services,12,True
+73,2025,2025-Q1,2026-Q1,0.007175,-0.032613,Waste management and remediation services,12,True
+75,2019,2019-Q1,2020-Q1,0.009237,,Educational services,8,True
+75,2020,2020-Q1,2021-Q1,-0.074909,,Educational services,8,True
+75,2021,2021-Q1,2022-Q1,0.070401,,Educational services,8,True
+75,2022,2022-Q1,2023-Q1,0.016150,,Educational services,8,True
+75,2023,2023-Q1,2024-Q1,0.041216,,Educational services,8,True
+75,2024,2024-Q1,2025-Q1,0.027991,,Educational services,8,True
+75,2025,2025-Q1,2026-Q1,-0.002929,,Educational services,8,True
+76,2019,2019-Q1,2020-Q1,0.025117,0.012878,Health care and social assistance,8,True
+76,2020,2020-Q1,2021-Q1,-0.036709,0.055252,Health care and social assistance,8,True
+76,2021,2021-Q1,2022-Q1,0.014416,0.069699,Health care and social assistance,8,True
+76,2022,2022-Q1,2023-Q1,0.045800,0.042421,Health care and social assistance,8,True
+76,2023,2023-Q1,2024-Q1,0.048002,0.029991,Health care and social assistance,8,True
+76,2024,2024-Q1,2025-Q1,0.037277,0.042157,Health care and social assistance,8,True
+76,2025,2025-Q1,2026-Q1,0.029986,0.026811,Health care and social assistance,8,True
+77,2019,2019-Q1,2020-Q1,0.029307,-0.004954,Ambulatory health care services,12,True
+77,2020,2020-Q1,2021-Q1,-0.009840,0.034143,Ambulatory health care services,12,True
+77,2021,2021-Q1,2022-Q1,0.032826,0.053847,Ambulatory health care services,12,True
+77,2022,2022-Q1,2023-Q1,0.040730,0.038415,Ambulatory health care services,12,True
+77,2023,2023-Q1,2024-Q1,0.038124,0.029362,Ambulatory health care services,12,True
+77,2024,2024-Q1,2025-Q1,0.039451,0.046581,Ambulatory health care services,12,True
+77,2025,2025-Q1,2026-Q1,0.017947,0.028255,Ambulatory health care services,12,True
+78,2019,2019-Q1,2020-Q1,0.012917,0.032115,Hospitals,12,True
+78,2020,2020-Q1,2021-Q1,-0.020389,0.052740,Hospitals,12,True
+78,2021,2021-Q1,2022-Q1,-0.003940,0.078911,Hospitals,12,True
+78,2022,2022-Q1,2023-Q1,0.031732,0.044797,Hospitals,12,True
+78,2023,2023-Q1,2024-Q1,0.039753,0.029354,Hospitals,12,True
+78,2024,2024-Q1,2025-Q1,0.021962,0.045418,Hospitals,12,True
+78,2025,2025-Q1,2026-Q1,0.026086,0.027354,Hospitals,12,True
+79,2019,2019-Q1,2020-Q1,0.002912,0.037871,Nursing and residential care facilities,12,True
+79,2020,2020-Q1,2021-Q1,-0.087672,0.066093,Nursing and residential care facilities,12,True
+79,2021,2021-Q1,2022-Q1,-0.037246,0.105586,Nursing and residential care facilities,12,True
+79,2022,2022-Q1,2023-Q1,0.044252,0.047897,Nursing and residential care facilities,12,True
+79,2023,2023-Q1,2024-Q1,0.055921,0.044454,Nursing and residential care facilities,12,True
+79,2024,2024-Q1,2025-Q1,0.037247,0.036825,Nursing and residential care facilities,12,True
+79,2025,2025-Q1,2026-Q1,0.022668,0.033586,Nursing and residential care facilities,12,True
+80,2019,2019-Q1,2020-Q1,0.051145,0.031907,Social assistance,12,True
+80,2020,2020-Q1,2021-Q1,-0.065665,0.056184,Social assistance,12,True
+80,2021,2021-Q1,2022-Q1,0.042056,0.075687,Social assistance,12,True
+80,2022,2022-Q1,2023-Q1,0.073912,0.063226,Social assistance,12,True
+80,2023,2023-Q1,2024-Q1,0.070652,0.042766,Social assistance,12,True
+80,2024,2024-Q1,2025-Q1,0.050893,0.044754,Social assistance,12,True
+80,2025,2025-Q1,2026-Q1,0.060786,0.035673,Social assistance,12,True
+82,2019,2019-Q1,2020-Q1,0.018553,0.027055,"Arts, entertainment, and recreation",8,True
+82,2020,2020-Q1,2021-Q1,-0.281239,0.057461,"Arts, entertainment, and recreation",8,True
+82,2021,2021-Q1,2022-Q1,0.254744,0.041610,"Arts, entertainment, and recreation",8,True
+82,2022,2022-Q1,2023-Q1,0.097560,0.057950,"Arts, entertainment, and recreation",8,True
+82,2023,2023-Q1,2024-Q1,0.061768,0.023227,"Arts, entertainment, and recreation",8,True
+82,2024,2024-Q1,2025-Q1,0.025516,0.039573,"Arts, entertainment, and recreation",8,True
+82,2025,2025-Q1,2026-Q1,0.007504,0.048342,"Arts, entertainment, and recreation",8,True
+83,2019,2019-Q1,2020-Q1,-0.000437,0.028947,"Performing arts, spectator sports, museums, and related activities",12,True
+83,2020,2020-Q1,2021-Q1,-0.332395,0.075710,"Performing arts, spectator sports, museums, and related activities",12,True
+83,2021,2021-Q1,2022-Q1,0.370238,-0.017865,"Performing arts, spectator sports, museums, and related activities",12,True
+83,2022,2022-Q1,2023-Q1,0.119104,0.069261,"Performing arts, spectator sports, museums, and related activities",12,True
+83,2023,2023-Q1,2024-Q1,0.081777,0.004938,"Performing arts, spectator sports, museums, and related activities",12,True
+83,2024,2024-Q1,2025-Q1,0.013585,0.024938,"Performing arts, spectator sports, museums, and related activities",12,True
+83,2025,2025-Q1,2026-Q1,0.016343,0.056266,"Performing arts, spectator sports, museums, and related activities",12,True
+84,2019,2019-Q1,2020-Q1,0.026068,0.028926,"Amusements, gambling, and recreation industries",12,True
+84,2020,2020-Q1,2021-Q1,-0.261519,0.059717,"Amusements, gambling, and recreation industries",12,True
+84,2021,2021-Q1,2022-Q1,0.214496,0.071346,"Amusements, gambling, and recreation industries",12,True
+84,2022,2022-Q1,2023-Q1,0.089089,0.051061,"Amusements, gambling, and recreation industries",12,True
+84,2023,2023-Q1,2024-Q1,0.053685,0.029265,"Amusements, gambling, and recreation industries",12,True
+84,2024,2024-Q1,2025-Q1,0.030464,0.049190,"Amusements, gambling, and recreation industries",12,True
+84,2025,2025-Q1,2026-Q1,0.003898,0.049051,"Amusements, gambling, and recreation industries",12,True
+85,2019,2019-Q1,2020-Q1,0.005887,0.030231,Accommodation and food services,8,True
+85,2020,2020-Q1,2021-Q1,-0.201252,0.029344,Accommodation and food services,8,True
+85,2021,2021-Q1,2022-Q1,0.168572,0.138465,Accommodation and food services,8,True
+85,2022,2022-Q1,2023-Q1,0.057204,0.066536,Accommodation and food services,8,True
+85,2023,2023-Q1,2024-Q1,0.013212,0.045112,Accommodation and food services,8,True
+85,2024,2024-Q1,2025-Q1,0.000311,0.037067,Accommodation and food services,8,True
+85,2025,2025-Q1,2026-Q1,0.008677,0.032493,Accommodation and food services,8,True
+86,2019,2019-Q1,2020-Q1,0.008483,0.028379,Accommodation,12,True
+86,2020,2020-Q1,2021-Q1,-0.364442,0.028504,Accommodation,12,True
+86,2021,2021-Q1,2022-Q1,0.285818,0.154457,Accommodation,12,True
+86,2022,2022-Q1,2023-Q1,0.100781,0.061621,Accommodation,12,True
+86,2023,2023-Q1,2024-Q1,0.029312,0.019156,Accommodation,12,True
+86,2024,2024-Q1,2025-Q1,0.004430,0.028265,Accommodation,12,True
+86,2025,2025-Q1,2026-Q1,-0.006573,0.037933,Accommodation,12,True
+87,2019,2019-Q1,2020-Q1,0.005438,0.035021,Food services and drinking places,12,True
+87,2020,2020-Q1,2021-Q1,-0.173007,0.035560,Food services and drinking places,12,True
+87,2021,2021-Q1,2022-Q1,0.152977,0.128616,Food services and drinking places,12,True
+87,2022,2022-Q1,2023-Q1,0.050740,0.065093,Food services and drinking places,12,True
+87,2023,2023-Q1,2024-Q1,0.010710,0.049861,Food services and drinking places,12,True
+87,2024,2024-Q1,2025-Q1,-0.000341,0.045679,Food services and drinking places,12,True
+87,2025,2025-Q1,2026-Q1,0.011102,0.029648,Food services and drinking places,12,True
+88,2019,2019-Q1,2020-Q1,0.007336,0.025433,"Other services, except government",4,False
+88,2020,2020-Q1,2021-Q1,-0.098284,0.056616,"Other services, except government",4,False
+88,2021,2021-Q1,2022-Q1,0.058161,0.046086,"Other services, except government",4,False
+88,2022,2022-Q1,2023-Q1,0.027038,0.047697,"Other services, except government",4,False
+88,2023,2023-Q1,2024-Q1,0.024829,0.051469,"Other services, except government",4,False
+88,2024,2024-Q1,2025-Q1,0.008375,0.043831,"Other services, except government",4,False
+88,2025,2025-Q1,2026-Q1,0.007637,0.035043,"Other services, except government",4,False

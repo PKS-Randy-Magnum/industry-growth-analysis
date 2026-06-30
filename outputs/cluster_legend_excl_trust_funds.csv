@@ -1,0 +1,5 @@
+﻿cluster_id,cluster_label,description,n_industries,avg_price_growth,avg_quantity_growth,vol_price_growth,vol_quantity_growth
+0,high_volatility,High volatility (avg vol ~0.030),63,0.009323,0.004701,0.023841,0.036776
+1,high_volatility,High volatility (avg vol ~0.034),3,0.002866,0.023228,0.011360,0.056945
+2,high_volatility,High volatility (avg vol ~0.191),2,0.044321,0.010528,0.279418,0.101902
+3,high_volatility,High volatility (avg vol ~0.091),11,0.005800,0.020148,0.046007,0.136061
